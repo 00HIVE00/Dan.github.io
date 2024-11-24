@@ -6,14 +6,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     
     <url>
-        <loc>https://http://danvillaco.site/index.html</loc>
+        <loc>http://danvillaco.site/index.html</loc>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
         <lastmod>2024-11-24</lastmod>
     </url>
     
     <url>
-        <loc>https://http://danvillaco.site/about.html</loc>
+        <loc>https://danvillaco.site/about.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         <lastmod>2024-11-01</lastmod>
