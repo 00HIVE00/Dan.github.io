@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/  # Block access to the admin directory
+Disallow: /private/  # Block access to the private directory (if applicable)
+Allow: /  # Allow access to the root directory
+
+Sitemap: http://danvillaco.site/sitemap.xml  # Provide your sitemap location (replace with actual URL)
