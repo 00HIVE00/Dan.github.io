@@ -19,4 +19,20 @@
         <lastmod>2024-11-01</lastmod>
     </url>
 
+    <url>
+        <loc>https://danvillaco.site/nisu.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <lastmod>2024-11-01</lastmod>
+    </url>
+
+   <url>
+        <loc>https://danvillaco.site/cics.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <lastmod>2024-11-01</lastmod>
+    </url>
+
+
+
 </urlset>
